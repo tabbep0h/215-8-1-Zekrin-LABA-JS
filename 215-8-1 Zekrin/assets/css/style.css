@@ -1,0 +1,35 @@
+.html{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.htmlka{
+    border: 2px rgb(146, 146, 146) solid;
+    max-width: 100px;
+    border-radius: 10px;
+    padding: 10px 200px;
+    background: rgb(109, 234, 230);
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: 0.5s ;
+}
+.htmlka:hover{
+    transform: scale(105%);
+}
+a{
+    text-decoration: none;
+    color:black
+}
+p{
+    cursor: pointer;
+}
+.w222{
+    border: 1px solid black;
+    padding: 10px 40px;
+}
+.q222{
+    border: 1px solid black;
+    padding: 10px 40px;
+}
